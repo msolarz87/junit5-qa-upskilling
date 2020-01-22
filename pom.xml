@@ -8,7 +8,8 @@
     <artifactId>junit5-qa-upskilling</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <java.compile.version>12</java.compile.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java.compile.version>1.8</java.compile.version>
         <junit5.version>5.5.2</junit5.version>
         <junit.platform.version>1.5.2</junit.platform.version>
         <hamcrest.version>1.3</hamcrest.version>
