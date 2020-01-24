@@ -8,7 +8,7 @@ import org.junit.jupiter.api.BeforeEach;
 public class BaseTodoListTest {
 
     @BeforeAll
-    public void setUpAll() {
+    static void setUpAll() {
 
     }
 
@@ -23,7 +23,7 @@ public class BaseTodoListTest {
     }
 
     @AfterAll
-    public void tearDownAll() {
+    static void tearDownAll() {
 
     }
 
